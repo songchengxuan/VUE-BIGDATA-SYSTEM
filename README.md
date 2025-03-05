@@ -13,5 +13,3 @@ npm run dev
 npm run build
 ```
 
-## 项目截图
-
