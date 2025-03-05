@@ -1,0 +1,14 @@
+{
+    "list": [
+        {
+            "id": 1,
+            "branch_id": "DC11",
+            "satnr": "HDM123123",
+            "main_attribute": "0感衬衫",
+            "create_time": "2019-11-1",
+            "modify_time": "2019-11-1",
+            "thumb": "https://lin-xin.gitee.io/images/post/wms.png"
+        }
+    ],
+    "pageTotal": 4
+}
